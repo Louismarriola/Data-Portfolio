@@ -50,26 +50,54 @@
  
  Data analysis and visualization was done on Tableau using the final clean data set done on SQL. 
   
- #### **Insights** 
+ #### **Total Ride-Share Rides**
+  
+  ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/b12aca90166b6fd6f203c4054efaf671559dd050/Ride%20Countviz.png) 
+ 
+  #### **Insights** 
  * In 2021 Cyclistic hit an impressive grand total of 5,595,063 rides. 
  * Members led with 55% of the rides at a total of 3 million rides. 
  * Casual riders hit a 45% of rides at a total of 2.5 million rides.
  * In the Total Ride- Share Rides graph we cleary noticed which months rides skyrocketed as well as max rides for each rider.
  
  
- #### **Total Ride-Share Rides**
+ #### **Total Rides by Bike Type**
   
-  ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/b12aca90166b6fd6f203c4054efaf671559dd050/Ride%20Countviz.png) 
- 
+  ![bar_graph_1](https://github.com/Louismarriola/Data-Portfolio/blob/e7efa1d151a2d7c53874b74b1a4b4b3d957c69f4/Bike%20Typeviz.png) 
+  
   #### **Insights** 
-  * 
+  * Between the two types of bikes provided, Classic bike type was the most populer between both types of riders. 
+  * Members rode more Classic bikes than Casual riders did.
+  * Between both types of bikes Casual riders had a difference 316,651 rides. 
+  * Members had almost a 3 fold difference with a total of 902,685 rides.
+
+ #### **Weekend / Weekday Demand**
+
+![pie_chart_1]( Image) 
+
+#### **Insights** 
+* Casual riders beat members by almost 2 fold for Weekend rides for a total of 41% compared to Member riders use Cyclistic 26% of the time on Weekends. 
+* Members have a majority of their rides during the week implying Members may use Cyclistic for commuting purposes while Casual riders use it for liesure. 
+
+#### **Daily Timeline**
+
+![bar_chart_2]( image ) 
+
+#### **Insights**
+
+* Early Morning-     00:00 AM - 9:00 AM                      
+* Morning-           9:00 AM - 12:00 PM 
+* Early Afternoon-   12:00 PM - 3:00 PM
+* Late Afternoon-     3:00 PM - 6:00 PM 
+* Evening-            6:00 PM - 9:00 PM
+* Late Night-        9:00 PM - 00:00 AM 
+
+* Members noticably have an increase in usage between early morning and late afternoon hours, these timeframes are typical commuting hours. 
+* Casual 
+
   
   
-   #### **Total Rides by Bike Type**
-  
-  ![bar_graph_1](https://github.com/Louismarriola/Data-Portfolio/blob/f02de441e93189962499a260346c61b4549043dd/Bike%20Typeviz.png) 
- 
- 
+
  
  
  
