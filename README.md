@@ -1,7 +1,7 @@
 ## Table of Contents
 
 1. [Introduction](README.md#introduction)
-2. [Business Objective](README.md#business objective)
+2. [Business Objective](README.md#businessobjective)
 3. [Data](README.md#Data)
 4. [Processing & Cleaning](README.md#processing-and-cleaning)
 5. [Analyzing](README.md#analyzing)
