@@ -3,7 +3,7 @@
 1. [Introduction](README.md#introduction)
 2. [Business Objective](README.md#business-objective)
 3. [Data](README.md#Data)
-4. [Processing & Cleaning](README.md#processing-&-cleaning)
+4. [Processing & Cleaning](README.md#processing-and-cleaning)
 5. [Analyzing](README.md#analyzing)
 6. [Conclusion](README.md#conclusion)
 
