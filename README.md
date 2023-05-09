@@ -49,20 +49,12 @@
  
  Total Ride-Share Rides
  
- -
  
  
  
  
  
-
- 
- 
- 
- 
- 
- 
- 
+ ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/47fefaea7f7ef9faa1032ec029de9a453896023d/Ride%20Count.png) 
  
  
  
