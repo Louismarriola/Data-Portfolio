@@ -30,14 +30,37 @@
 ## Processing and Cleaning-
 * A database was created in SQL using all 12 csv files.
 * An overview of actions done to process and clean the data. 
-        * [SQL Query](.   )        
+        * [SQL Queries](   )        
         * Datatypes
+        * Formatting
         * Duplicate entry 
-        * Additional columns calculating new metrics
-        * 
-
+        * Add/Delete columns 
+        * Calculations
 
 ## Analyzing- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 
 
 ## Conclusion- 
