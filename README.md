@@ -30,14 +30,33 @@
 ## Processing and Cleaning-
 * A database was created in SQL using all 12 csv files.
 * An overview of actions done to process and clean the data. 
-        * [SQL Queries](   )        
+
+     [SQL Queries](https://github.com/Louismarriola/Data-Portfolio/commit/83c04905d90ebc79a944abaadeef0d0c53b7c1a3)
+       
         * Datatypes
-        * Formatting
+
+        * Formatting        
+  
         * Duplicate entry 
+        
         * Add/Delete columns 
+        
         * Calculations
 
 ## Analyzing- 
+ 
+ Data analysis and visualization was done on Tableau using the final clean data set done on SQL. 
+ 
+ Total Ride-Share Rides
+ 
+ -
+ 
+ 
+ 
+ 
+ 
+
+ 
  
  
  
