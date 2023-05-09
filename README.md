@@ -10,7 +10,7 @@
 
 ## Introduction 
 
-  This project is a capstone project for the completion of the [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/professional-cert/AHR8TAZNRZGJ). The scenario involves a fictitious company called "Cyclistic", which provides bike-share services in Chicago. This program features more than 5,800 bicycles across 600 docking stations. The director of marketing is aiming to maximize the number of annual memberships for future growth of the company. 
+  This project is a capstone project for the completion of the [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/professional-cert/AHR8TAZNRZGJ). The scenario involves a fictitious company called "Cyclistic", which provides bike-share services in Chicago. This program features more than 5,800 bicycles across 600 docking stations. Customers who purchased single-ride or full-day passes are classified as "casual" riders. The customers who purchased annual memberships are "members". The director of marketing is aiming to maximize the number of annual memberships for future growth of the company. 
   
 ## Buiness Objective 
 
@@ -49,23 +49,25 @@
 ## Analyzing
  
  Data analysis and visualization was done on Tableau using the final clean data set done on SQL. 
- 
- Total Ride-Share Rides
- 
- 
- 
- 
- 
- 
- ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/47fefaea7f7ef9faa1032ec029de9a453896023d/Ride%20Count.png) 
+  
+ #### **Insights** 
+ * In 2021 Cyclistic hit an impressive grand total of 5,595,063 rides. 
+ * Members led with 55% of the rides at a total of 3 million rides. 
+ * Casual riders hit a 45% of rides at a total of 2.5 million rides.
+ * In the Total Ride- Share Rides graph we cleary noticed which months rides skyrocketed as well as max rides for each rider.
  
  
+ #### **Total Ride-Share Rides**
+  
+  ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/b12aca90166b6fd6f203c4054efaf671559dd050/Ride%20Countviz.png) 
  
- 
- 
- 
- 
- 
+  #### **Insights** 
+  * 
+  
+  
+   #### **Total Rides by Bike Type**
+  
+  ![bar_graph_1](https://github.com/Louismarriola/Data-Portfolio/blob/f02de441e93189962499a260346c61b4549043dd/Bike%20Typeviz.png) 
  
  
  
