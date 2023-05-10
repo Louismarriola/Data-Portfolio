@@ -103,27 +103,35 @@
 
 #### **Insights**
 
- #### **Avg Mileage**
+
+
+
+
+
+
+
+
+
+ #### **Daily Average Mileage**
   
 ![bar_chart_2]( image ) 
 
 #### **Insights**
-* 
- 
- 
- 
- 
+* Members max average is 1.38 Miles during the early morning timeframe.
+* Casual riders max an average of 1.47 Miles during the late afternoon timeframe.
+* Yearly average ride distance between the two.
+* Members- 1.32 Miles
+* Casual- 1.40 Miles
+
 
  #### **Rides during Seasons**
 
 ![bar_chart_2]( image ) 
 
 #### **Insights**
-
-
-
-
-
-
+* Members hit a max of 1.1 million rides in the Summer.
+* Casual riders surpass members at 1.2 million rides in the summer.
+* 42 % of the yearly rides were done in the Summer.
+* Both rider types low season was Winter.
 
 ## Conclusion
