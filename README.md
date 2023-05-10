@@ -86,35 +86,39 @@
 #### **Insights**
 
 * Early Morning-     00:00 AM - 9:00 AM                      
-* Morning-           9:00 AM - 12:00 PM 
+* Morning-            9:00 AM - 12:00 PM 
 * Early Afternoon-   12:00 PM - 3:00 PM
 * Late Afternoon-     3:00 PM - 6:00 PM 
 * Evening-            6:00 PM - 9:00 PM
 * Late Night-        9:00 PM - 00:00 AM 
 
-* Members noticably have an increase in usage between early morning and late afternoon hours, these timeframes are typical commuting hours. 
-* Casual 
+* Members. during weekdays noticably have an increase in usage between early morning and late afternoon hours, these timeframes are typical commuting hours. 
+* Casual riders on weekdays have an increase in rides in the late afternoon into evening hours. 
+* Bike usage is in demand during early and late afternoons on weekends for both riders.
 
+
+ #### **Avg Time**
+
+![bar_chart_2]( image ) 
+
+#### **Insights**
+
+ #### **Avg Mileage**
   
-  
+![bar_chart_2]( image ) 
 
+#### **Insights**
+* 
  
  
  
  
- 
- 
 
+ #### **Rides during Seasons**
 
+![bar_chart_2]( image ) 
 
-
-
-
-
-
-
-
-
+#### **Insights**
 
 
 
