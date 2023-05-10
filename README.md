@@ -135,5 +135,7 @@
 * Both rider types low season was Winter.
 
 ## Conclusion
-
+* An observation that stood out was members use bikes for commuting purposes while casual riders used the service for tourism and leisure. 
+* 
+* akjsd;lfkjas
 
