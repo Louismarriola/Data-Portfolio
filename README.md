@@ -90,7 +90,7 @@
 * Early Afternoon-   12:00 PM - 3:00 PM
 * Late Afternoon-     3:00 PM - 6:00 PM 
 * Evening-            6:00 PM - 9:00 PM
-* Late Night-        9:00 PM - 00:00 AM 
+* Late Night-         9:00 PM - 00:00 AM 
 
 * Members. during weekdays noticably have an increase in usage between early morning and late afternoon hours, these timeframes are typical commuting hours. 
 * Casual riders on weekdays have an increase in rides in the late afternoon into evening hours. 
@@ -135,3 +135,5 @@
 * Both rider types low season was Winter.
 
 ## Conclusion
+
+
