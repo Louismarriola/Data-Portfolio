@@ -97,21 +97,6 @@
 * Bike usage is in demand during early and late afternoons on weekends for both riders.
 
 
- #### **Avg Time**
-
-![bar_chart_2]( image ) 
-
-#### **Insights**
-
-
-
-
-
-
-
-
-
-
  #### **Daily Average Mileage**
   
 ![bar_chart_2]( image ) 
@@ -122,6 +107,15 @@
 * Yearly average ride distance between the two.
 * Members- 1.32 Miles
 * Casual- 1.40 Miles
+
+
+ #### **Average Bike Time (Minutes)**
+
+![chart_1]( image ) 
+
+#### **Insights**
+* Casual riders have the highest average which is 27 minutes, this is during the spring season. 
+* Members max average time is 13 minutes which is done during spring and summer. 
 
 
  #### **Rides during Seasons**
@@ -136,6 +130,6 @@
 
 ## Conclusion
 * An observation that stood out was members use bikes for commuting purposes while casual riders used the service for tourism and leisure. 
+* Casual riders on average spend twice the amount of minutes using Cyclistic than members do.
 * 
-* akjsd;lfkjas
 
