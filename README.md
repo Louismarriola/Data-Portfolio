@@ -128,8 +128,19 @@
 * 42 % of the yearly rides were done in the Summer.
 * Both rider types low season was Winter.
 
-## Conclusion
-* An observation that stood out was members use bikes for commuting purposes while casual riders used the service for tourism and leisure. 
-* Casual riders on average spend twice the amount of minutes using Cyclistic than members do.
-* 
+## Conclusion & Observations
+
+* Frequency of Rides: 
+
+    Annual members tend to use the bikes more frequently, with a higher portion of their rides being par of a communiting routine. Casual riders tend to use the bike services more sporadically for tourism and leisure activities. 
+
+* Trip Duration:
+
+    Annual members tend to take shorter trips, with the majority of their trips lasting less than 15 mintues. Casual riders used the bikes for longer periods of time, on average their trips were in between 20-30 minutes.
+ 
+* Weekly Behavior:
+
+    74 % of Annual members primarily riding during commuting hours of 6 am - 9am and 3-7pm. Weekend activity is very minimal and on average they ride less than the casual riders. Throuhgout the week casual riders tend to sporadically increase usage duirng the late afternoon into evening hours. On the weekends their demand outweights the members, noticing increase actvitiy during the afternoon.
+    
+  Based on these differences, we can prdict that annual members and casual riders have different needs and motivations for using Cyclistic bikes. Annual members are likely using the bikes as part of a daily commute and value convenience and reliability. Casual riders are using the bikes for leisure actitives and value flexibility and the abilitiy to explore the surrounding areas in the city. These insights can inform recommendations for Cyclistic to better cater to the needs of these customer segments. These insights can also aide on creating powerful marketing campaigns.  
 
