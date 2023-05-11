@@ -142,5 +142,7 @@
 
     74 % of Annual members primarily riding during commuting hours of 6 am - 9am and 3-7pm. Weekend activity is very minimal and on average they ride less than the casual riders. Throuhgout the week casual riders tend to sporadically increase usage duirng the late afternoon into evening hours. On the weekends their demand outweights the members, noticing increase actvitiy during the afternoon.
     
+* Final Thoughts
+
   Based on these differences, we can prdict that annual members and casual riders have different needs and motivations for using Cyclistic bikes. Annual members are likely using the bikes as part of a daily commute and value convenience and reliability. Casual riders are using the bikes for leisure actitives and value flexibility and the abilitiy to explore the surrounding areas in the city. These insights can inform recommendations for Cyclistic to better cater to the needs of these customer segments. These insights can also aide on creating powerful marketing campaigns.  
 
