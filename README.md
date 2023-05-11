@@ -52,7 +52,7 @@
   
  #### **Total Ride-Share Rides**
   
-  ![line_chart_1]( ) 
+  ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Total%20Count.png) 
  
   #### **Insights** 
  * In 2021 Cyclistic hit an impressive grand total of 5,595,063 rides. 
@@ -63,7 +63,7 @@
  
  #### **Total Rides by Bike Type**
   
-  ![bar_graph_1]() 
+  ![bar_graph_1](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Bike%20Type.png) 
   
   #### **Insights** 
   * Between the two types of bikes provided, Classic bike type was the most populer between both types of riders. 
@@ -73,7 +73,7 @@
 
  #### **Weekend / Weekday Demand**
 
-![pie_chart_1]( Image) 
+![pie_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Weekday%3Aend.png) 
 
 #### **Insights** 
 * Casual riders beat members by almost 2 fold for Weekend rides for a total of 41% compared to Member riders use Cyclistic 26% of the time on Weekends. 
@@ -81,7 +81,7 @@
 
 #### **Daily Timeline**
 
-![bar_chart_2]( image ) 
+![bar_chart_2](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Time%20of%20Day.png) 
 
 #### **Insights**
 
@@ -99,7 +99,7 @@
 
  #### **Daily Average Mileage**
   
-![bar_chart_2]( image ) 
+![line_chart_2](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Avg%20Distance.png) 
 
 #### **Insights**
 * Members max average is 1.38 Miles during the early morning timeframe.
@@ -111,7 +111,7 @@
 
  #### **Average Bike Time (Minutes)**
 
-![chart_1]( image ) 
+![chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Avg%20Minutes.png) 
 
 #### **Insights**
 * Casual riders have the highest average which is 27 minutes, this is during the spring season. 
@@ -120,7 +120,7 @@
 
  #### **Rides during Seasons**
 
-![bar_chart_2]( image ) 
+![bar_chart_3](https://github.com/Louismarriola/Data-Portfolio/blob/6e6b9e20e91ffb941ad61f573e5bdf8e24319d04/Cyclistic%20Viz/Seasons.png) 
 
 #### **Insights**
 * Members hit a max of 1.1 million rides in the Summer.
