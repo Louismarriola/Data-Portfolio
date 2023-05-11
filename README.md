@@ -52,7 +52,7 @@
   
  #### **Total Ride-Share Rides**
   
-  ![line_chart_1](https://github.com/Louismarriola/Data-Portfolio/blob/b12aca90166b6fd6f203c4054efaf671559dd050/Ride%20Countviz.png) 
+  ![line_chart_1]( ) 
  
   #### **Insights** 
  * In 2021 Cyclistic hit an impressive grand total of 5,595,063 rides. 
@@ -63,7 +63,7 @@
  
  #### **Total Rides by Bike Type**
   
-  ![bar_graph_1](https://github.com/Louismarriola/Data-Portfolio/blob/e7efa1d151a2d7c53874b74b1a4b4b3d957c69f4/Bike%20Typeviz.png) 
+  ![bar_graph_1]() 
   
   #### **Insights** 
   * Between the two types of bikes provided, Classic bike type was the most populer between both types of riders. 
