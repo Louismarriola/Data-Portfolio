@@ -10,3 +10,9 @@ Data analytics projects. Each project lives in its own folder with its own READM
 ## Adding a project
 
 Create a new folder with its own README, then add a row to the table above.
+
+## Assets
+
+| Asset | Description | Folder |
+| --- | --- | --- |
+| Power BI icons | PNG icons used in Power BI reports. | [assets/power-bi-icons/](assets/power-bi-icons/) |
